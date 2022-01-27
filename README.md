@@ -1,3 +1,3 @@
 # Responsive-Login
 
-web page for login and register with PWA system
+Web page for login and register with PWA system
